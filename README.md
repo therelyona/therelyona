@@ -13,7 +13,7 @@ I am looking for a team where I can continue learning, share ideas, and help bui
 * ✉️  You can contact me at [soboleva.alyonka@gmail.com](mailto:soboleva.alyonka@gmail.com) or at [Telegram](https://t.me/therelyona)
 * 📄  [My CV](https://cv.hexlet.io/ru/resumes/6696)
 
-### Skills
+## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,git,github,jest,figma,ps,linux,vscode&perline=6)](https://skillicons.dev)
 
 ## My experience
