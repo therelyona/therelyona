@@ -10,15 +10,15 @@ Proficient in HTML, CSS, and JavaScript, I develop both console applications and
 I am looking for a team where I can continue learning, share ideas, and help build solutions that enhance user experience. Eager to quickly learn new technologies to integrate into the team and make meaningful contributions.
 
 * 🌍  I'm based in Tolyatti, Russia
-* ✉️  You can contact me at [soboleva.alyonka@gmail.com](mailto:soboleva.alyonka@gmail.com) or at <a href="https://t.me/therelyona" target="_blank">Telegram</a>
-* 📄  <a href="https://cv.hexlet.io/ru/resumes/6696" target="_blank">My CV</a>
+* ✉️  You can contact me at [soboleva.alyonka@gmail.com](mailto:soboleva.alyonka@gmail.com) or at [Telegram](https://t.me/therelyona)
+* 📄  [My CV](https://cv.hexlet.io/ru/resumes/6696)
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,git,github,jest,figma,ps,linux,vscode&perline=6)](https://skillicons.dev)
 
 ## My experience
 **Game**:
-- 🧠 <a href="https://github.com/therelyona/Brain-games" target="_blank">Brain Games</a> - A set of five console games based on the principle of popular mobile applications for brain training.
+- 🧠 [Brain Games](https://github.com/therelyona/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 
 **CLI Utility**:
-- 📑 <a href="https://github.com/therelyona/Difference-finder" target="_blank">Gen Diff</a> - CLI utility that identifies the difference between two data structures.
+- 📑 [Gen Diff](https://github.com/therelyona/Difference-finder) - CLI utility that identifies the difference between two data structures.
