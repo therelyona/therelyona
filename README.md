@@ -22,3 +22,6 @@ I am looking for a team where I can continue learning, share ideas, and help bui
 
 **CLI Utility**:
 - 📑 [Gen Diff](https://github.com/therelyona/Difference-finder) - CLI utility that identifies the difference between two data structures.
+
+**Web Application**:
+- 🌐 [RSS aggregator](https://github.com/therelyona/RSS-aggregator) - An online service for aggregating RSS feeds, making it easier to read and stay updated.
