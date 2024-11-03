@@ -3,11 +3,10 @@
 Frontend Developer
 ----------------
 
-A passionate frontend developer, dedicated to creating useful and user-friendly products.
 
-Proficient in HTML, CSS, and JavaScript, I develop both console applications and landing pages. I apply TDD and automated testing to ensure that every project is reliable and of high quality.
+I am a Frontend developer with a genuine love for what I do and a passion for creating useful and user-friendly products. I am proficient in HTML, CSS, JavaScript and can develop console and browser-based applications as well as lendings. My experience in sales and running a business has taught me to understand people and work effectively both in a team and independently. I actively utilize TDD and automated testing, know how to work effectively with DOM APIs and manage application state.
 
-I am looking for a team where I can continue learning, share ideas, and help build solutions that enhance user experience. Eager to quickly learn new technologies to integrate into the team and make meaningful contributions.
+Looking for a team where I can continue to learn, share ideas, and help create solutions that improve users' lives. I am ready to quickly learn new technologies and development principles to maximize my ability to join the team and contribute to the common cause.
 
 * 🌍  I'm based in Tolyatti, Russia
 * ✉️  You can contact me at [soboleva.alyonka@gmail.com](mailto:soboleva.alyonka@gmail.com) or at [Telegram](https://t.me/therelyona)
