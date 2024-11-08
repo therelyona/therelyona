@@ -17,6 +17,7 @@ Looking for a team where I can continue to learn, share ideas, and help create s
 
 ## My experience
 **Game**:
+- 🐱 [Meow](https://github.com/therelyona/meow) - A cute app for taking care of a virtual pet. Feed it, play with it, and keep an eye on its mood and health.
 - 🧠 [Brain Games](https://github.com/therelyona/Brain-games) - A set of five console games based on the principle of popular mobile applications for brain training.
 
 **CLI Utility**:
