@@ -17,6 +17,7 @@ I am looking for a team where I can continue to grow, share ideas, and help crea
 ## My experience
 **Web Application**:
 - 💬 [Chat (Slack)](https://github.com/therelyona/Chat-slack) - Real-time chat app built with WebSockets, React, Redux, supporting user authentication, message sending with profanity filtering, and channel management.
+- 🎥 [Stream Vibe](https://github.com/therelyona/stream-vibe) - A multi-page streaming service application with fully functional pages, complex UI components, and adaptive design.
 - 🌐 [RSS aggregator](https://github.com/therelyona/RSS-aggregator) - An online service for aggregating RSS feeds, making it easier to read and stay updated.
 - 📝 [Notes](https://github.com/therelyona/notes) - A cozy app for creating and managing notes with tags. Your notes are saved even after refreshing the page.
 
